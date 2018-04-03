@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DanhBa</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add_contact">Add contact</string>
+    <string name="call">Call</string>
+    <string name="send_message">Send message</string>
+    <string name="call_or_send_message">Do you want to Call or Send message?</string>
+</resources>
